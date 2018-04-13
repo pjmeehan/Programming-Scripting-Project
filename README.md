@@ -1,8 +1,9 @@
 # Programming-Scripting-Project
 Final project for Programmimg and Scriptiing module - 2018
 
-Project Plan and Timeline for completing the project.
-Project Plan.
+## Project Plan and Timeline for completing the project.
+
+### Project Plan.
 The project plan is to follow the the suggestion in the project outline with the combining of some tasks.
 My plan for the project is as follows :
 
