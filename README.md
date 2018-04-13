@@ -1,5 +1,5 @@
 # Programming-Scripting-Project
-Final project for Programmimg and Scriptiing module - 2018
+Final project for Programmimg and Scripting module - 2018
 
 ## Project Plan and Timeline for completing the project.
 
