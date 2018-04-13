@@ -45,5 +45,5 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 
 ### REFERENCES
 
-Reference : https://uk.mathworks.com/help/stats/examples/classification.html?s_tid=gn_loc_drop.
-Reference : https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342.
+1. https://uk.mathworks.com/help/stats/examples/classification.html?s_tid=gn_loc_drop.
+2. https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342.
