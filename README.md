@@ -29,12 +29,17 @@ someone else's analysis that was interesting? If so, say a little something abou
 Make sure to include why this small data set is popular to analyze.
 
 ### Project Timeline.
+
 plan on spending 2 - 3 hours a day on the project until deadline.
 
 13/04/18 break project down by section with detailed descriptions for completing each section.
+
 14/04/18 - 15/04/18 Research, Document and Summarise.
+
 16/04/18 - 20/04/18 Download, Code and Summarise.
+
 21/04/18 - 22/04/18 Final Summary.
+
 23/04/18 - 29/04/18 Review and update.
 
 
