@@ -45,3 +45,4 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 1. https://en.wikipedia.org/wiki/Iris_flower_data_set
 2. https://www.techopedia.com/definition/32880/iris-flower-data-set
 3. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
+4. https://www.apsl.net/blog/2017/07/18/using-linear-discriminant-analysis-lda-data-explore-step-step/
