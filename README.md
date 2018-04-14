@@ -10,9 +10,7 @@ My plan for the project is as follows :
 #### Research, Document and Summarise.
 
 Research, document and summarize my findings in a clear and concise manner.
-Be sure to include interesting findings from others analysis on the data set and
-make sure to add the references to these findings. Also decide what type of
-analysis you want to include in your findings beyond the max, min and mean of
+Also decide what type of analysis you want to include in your findings beyond the max, min and mean of
 each column. Would including a table or graph be helpful?
 
 #### Download, Code and Summarise.
