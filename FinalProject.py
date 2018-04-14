@@ -1,7 +1,7 @@
 # April 14, 2008 Patrick Meehan
 # Programming and Scripting Final Project
 # reference https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
-
+# try to incorporate some of the script referenced above into my initial script.
 
 # labelnames translates the species names into integers
 labelnames = {"Iris-setosa\n":0, 
