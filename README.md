@@ -49,7 +49,7 @@ length and width of the sepals and petals were measured in centimetres.(1)(2)
 
 Based on the findings, Fisher developed a linear discriminant model to distinguish the species from each other.(1)
 
-What is Linear Discriminant Analysis (LDA)?
+#### What is Linear Discriminant Analysis (LDA)?
 According to Kardi Teknomo, PhD, "Linear Discriminant Analysis is a statistical method technique to classify objects into mutually exclusive and exhaustive groups based on a set of measurable features."(3) LDA allows for the prediction of a certain class (in Fisher's, it was the Iris class) based on the probability that certain inputs belong to such a class.(4)
 
 It is because of this ability to predict, that LDA is popular with machine learning and pattern recognition. The Fisher data set is
