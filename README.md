@@ -4,22 +4,19 @@ Final project for Programmimg and Scripting module - 2018
 ## Project Plan and Timeline for completing the project.
 
 ### Project Plan.
-The project plan is to follow the the suggestion in the project outline with the combining of some tasks.
+The project plan is to follow the suggestion in the project outline with the combining of some tasks.
 My plan for the project is as follows :
 
 #### Research, Document and Summarise.
 
 Research, document and summarize my findings in a clear and concise manner.
-Be sure to include interesting findings from others analysis on the data set and
-make sure to add the references to these findings. Also decide what type of
-analysis you want to include in your findings beyond the max, min and mean of
+Also decide what type of analysis you want to include in your findings beyond the max, min and mean of
 each column. Would including a table or graph be helpful?
 
 #### Download, Code and Summarise.
 
 Download the data set and write some code to do the chosen analysis (ie. max, min, mean etc).
-Summarise my findings on the analysis. Is there any interesting findings? Did I come across
-someone else's analysis that was interesting? If so, say a little something about it and reference it.
+Summarise my findings on my analysis. 
 MAKE SURE TO ADD COMMENTS TO MY CODE.
 
 #### Final Summary.
@@ -45,5 +42,6 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 
 ### REFERENCES
 
-1. https://uk.mathworks.com/help/stats/examples/classification.html?s_tid=gn_loc_drop.
-2. https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342.
+1. https://en.wikipedia.org/wiki/Iris_flower_data_set
+2. https://www.techopedia.com/definition/32880/iris-flower-data-set
+3. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
