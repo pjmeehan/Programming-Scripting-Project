@@ -44,5 +44,6 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 
 ### REFERENCES
 
-1. https://uk.mathworks.com/help/stats/examples/classification.html?s_tid=gn_loc_drop.
-2. https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342.
+1. https://en.wikipedia.org/wiki/Iris_flower_data_set
+2. https://www.techopedia.com/definition/32880/iris-flower-data-set
+3. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
