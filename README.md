@@ -64,3 +64,4 @@ It is because of this ability to predict, that LDA is popular with machine learn
 5. https://www.youtube.com/watch?v=33VQaF5wj9g
 6. https://www.dataquest.io/blog/numpy-tutorial-python/#numpy-array-operations
 7. https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
+8. https://diwashrestha.com/2017/09/18/machine-learning-on-iris/
