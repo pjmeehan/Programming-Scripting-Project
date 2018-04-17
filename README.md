@@ -70,6 +70,10 @@ It is because of this ability to predict, that LDA is popular with machine learn
 
 
 
+![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png)
+
+
+
 
 
 
