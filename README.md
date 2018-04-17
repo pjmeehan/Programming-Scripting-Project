@@ -3,29 +3,29 @@ Final project for Programmimg and Scripting module - 2018
 
 ## Project Plan and Timeline for completing the project.
 
-### Project Plan.
+### Project Plan
 The project plan is to follow the suggestion in the project outline with the combining of some tasks.
 My plan for the project is as follows :
 
-#### Research, Document and Summarise.
+#### Research, Document and Summarise
 
 Research, document and summarize my findings in a clear and concise manner.
 Also decide what type of analysis you want to include in your findings beyond the max, min and mean of
 each column. Would including a table or graph be helpful?
 
-#### Download, Code and Summarise.
+#### Download, Code and Summarise
 
 Download the data set and write some code to do the chosen analysis (ie. max, min, mean etc).
 Summarise my findings on my analysis. 
 MAKE SURE TO ADD COMMENTS TO MY CODE.
 
-#### Final Summary.
+#### Final Summary
 
 Summarise my findings on the project. Is there any interesting findings? Did I come across
 someone else's analysis that was interesting? If so, say a little something about it and reference it.
 Make sure to include why this small data set is popular to analyze.
 
-### Project Timeline.
+### Project Timeline
 
 plan on spending 2 - 3 hours a day on the project until deadline.
 
@@ -61,3 +61,7 @@ It is because of this ability to predict, that LDA is popular with machine learn
 2. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 3. http://people.revoledu.com/kardi/tutorial/LDA/
 4. https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/
+5. https://www.youtube.com/watch?v=33VQaF5wj9g
+6. https://www.dataquest.io/blog/numpy-tutorial-python/#numpy-array-operations
+7. https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
+8. https://diwashrestha.com/2017/09/18/machine-learning-on-iris/
