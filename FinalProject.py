@@ -29,14 +29,16 @@ csv_x = csv.reader(x)
 
 # use a for statement to run through each row.
 
-for row in csv_x:
 
 # use print statement along with format to format the data in each row with certain amount of spaces. 
   
-  print('{:<5} {:<20} {:<40} {:<60}'.format(*row))
-
+  
 iris = pd.read_csv("data/iris.csv")
-
+print (iris)
 print (iris.shape)
-
 print(iris.describe())
+
+
+# histograms
+iris.hist()
+plt.show()

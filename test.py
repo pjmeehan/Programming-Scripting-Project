@@ -14,4 +14,4 @@ import numpy as np
 data = numpy.genfromtxt("data/iris.csv", delimiter=',', usecols=[0,1,2,3], invalid_raise=False)
 
 
-  
+ print('{:<5} {:<5} {:<5} {:<5}'.format(*row)) 
