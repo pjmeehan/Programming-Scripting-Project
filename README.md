@@ -19,7 +19,6 @@ each column. Would including a table or graph be helpful?
 #### 2.Download, Code and Summarise
 
 Download the data set and write some code to do the chosen analysis (ie. max, min, mean etc).
-Summarise my findings on my analysis. 
 MAKE SURE TO ADD COMMENTS TO MY CODE.
 
 #### 3.Final Summary
@@ -43,7 +42,7 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 23/04/18 - 29/04/18 Review and update.
 
 
-# FISHER'S IRIS DATASET
+# FISHER'S IRIS DATASET SUMMARY
 
 Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936. Based on Fisher's linear discriminant model, this data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines. An interesting nate, the data in the set was actually compiled by Edgar Anderson. He collected the data to quantify the morphologic variation of Iris flowers of three related species. [1]
 
@@ -58,6 +57,15 @@ As stated above, Fisher's iris dataset is one of the most popular datasets to us
 According to Kardi Teknomo, PhD, "Linear Discriminant Analysis is a statistical method technique to classify objects into mutually exclusive and exhaustive groups based on a set of measurable features."[3] LDA allows for the prediction of a certain class (in Fisher's data set, it was the Iris class) based on the probability that certain inputs belong to such a class.[4]
 
 It is because of this ability to predict, that LDA is popular with machine learning and pattern recognition. 
+
+
+# THE PYTHON SCRIPT SUMMARY
+## FinalProject.py (please see above) is the script I wrote for this project.
+### The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, this allows us to view the first 10 lines of data, the dimensions of the array and the summary of the key statistical information. Finally, we plot our data on a graph.
+
+# FINAL SUMMARY
+### 
+
 
 
 ### REFERENCES 
