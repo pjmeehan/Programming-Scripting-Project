@@ -43,41 +43,38 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 23/04/18 - 29/04/18 Review and update.
 
 
-# FISHER'S IRIS DATA SET
+# FISHER'S IRIS DATASET
 
-Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936. The data in the set was actually compiled by Edgar Anderson. He collected the data to quantify the morphologic variation of Iris flowers of three related species. (1)
+Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936. Based on Fisher's linear discriminant model, this data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines. An interesting nate, the data in the set was actually compiled by Edgar Anderson. He collected the data to quantify the morphologic variation of Iris flowers of three related species. [1]
 
 The data set consists of 50 samples from each species, the Iris setosa, Iris virginica and Iris versicolor. For each sample, the
-length and width of the sepals and petals were measured in centimetres.(1)(2)
+length and width of the sepals and petals were measured in centimetres.[1],[2]
 
-Based on the findings, Fisher developed a linear discriminant model to distinguish the species from each other.(1)
+Based on the findings, Fisher developed a linear discriminant model to distinguish the species from each other.[1]
 
-#### What is Linear Discriminant Analysis (LDA)?
-According to Kardi Teknomo, PhD, "Linear Discriminant Analysis is a statistical method technique to classify objects into mutually exclusive and exhaustive groups based on a set of measurable features."(3) LDA allows for the prediction of a certain class (in Fisher's data set, it was the Iris class) based on the probability that certain inputs belong to such a class.(4)
+As stated above, Fisher's iris dataset is one of the most popular datasets to use in machine learning and also pattern recognition. I beleive the reason is because the dataset lends itself to the use of Linear Discriminant Analysis (LDA). 
 
-It is because of this ability to predict, that LDA is popular with machine learning and pattern recognition. The Fisher data set is popular because it is a real world, small set of data that lends itself to be used in the testing in machine learning.
+#### What is Linear Discriminant Analysis?
+According to Kardi Teknomo, PhD, "Linear Discriminant Analysis is a statistical method technique to classify objects into mutually exclusive and exhaustive groups based on a set of measurable features."[3] LDA allows for the prediction of a certain class (in Fisher's data set, it was the Iris class) based on the probability that certain inputs belong to such a class.[4]
+
+It is because of this ability to predict, that LDA is popular with machine learning and pattern recognition. 
 
 
-### REFERENCES
+### REFERENCES 
+#### (the references for the written summaries in the README file are below. The references for the python script are represented in the script)
 
 1. https://en.wikipedia.org/wiki/Iris_flower_data_set
 2. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 3. http://people.revoledu.com/kardi/tutorial/LDA/
 4. https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/
-5. https://www.youtube.com/watch?v=33VQaF5wj9g
-6. https://www.dataquest.io/blog/numpy-tutorial-python/#numpy-array-operations
-7. https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
-8. https://diwashrestha.com/2017/09/18/machine-learning-on-iris/
-9. https://www.youtube.com/watch?v=nvPOUdz5PL4
-10. http://cs231n.github.io/python-numpy-tutorial/
-11. https://dzone.com/articles/python-101-reading-and-writing
-12. http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/
-13. https://archive.ics.uci.edu/ml/datasets/iris
+5. https://www.youtube.com/watch?v=nvPOUdz5PL4 (explains how to post image in README file)
+
 
 
 
 
 ![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png)
+
 
 
 
