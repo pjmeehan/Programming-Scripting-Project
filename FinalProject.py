@@ -4,6 +4,8 @@
 
 # notes
 # # import data set using previous script to do so
+
+# REFERENCES
 # The following references were used to help with the project
 # 1. https://diwashrestha.com/2017/09/18/machine-learning-on-iris/
 # 2. http://www.pyzo.org/python_vs_matlab.html
