@@ -1,25 +1,28 @@
-# Programming-Scripting-Project
-Final project for Programmimg and Scripting module - 2018
+# Programming-Scripting-Project Final Project
+
+
+## The Project Objective (Problem Statement)
+The following project concerns the well-known Fisher’s Iris data set. The project entails researching the data set, and then writing documentation and code in the Python programming language based on that research. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed.  
 
 ## Project Plan and Timeline for completing the project.
 
 ### Project Plan
 The project plan is to follow the suggestion in the project outline with the combining of some tasks.
-My plan for the project is as follows :
+My plan for the project is broken down into three areas:
 
-#### Research, Document and Summarise
+#### 1.Research, Document and Summarise
 
 Research, document and summarize my findings in a clear and concise manner.
 Also decide what type of analysis you want to include in your findings beyond the max, min and mean of
 each column. Would including a table or graph be helpful?
 
-#### Download, Code and Summarise
+#### 2.Download, Code and Summarise
 
 Download the data set and write some code to do the chosen analysis (ie. max, min, mean etc).
 Summarise my findings on my analysis. 
 MAKE SURE TO ADD COMMENTS TO MY CODE.
 
-#### Final Summary
+#### 3.Final Summary
 
 Summarise my findings on the project. Is there any interesting findings? Did I come across
 someone else's analysis that was interesting? If so, say a little something about it and reference it.
