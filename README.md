@@ -67,16 +67,13 @@ It is because of this ability to predict, that LDA is popular with machine learn
 2. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 3. http://people.revoledu.com/kardi/tutorial/LDA/
 4. https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/
-5. https://www.youtube.com/watch?v=33VQaF5wj9g
-6. https://www.dataquest.io/blog/numpy-tutorial-python/#numpy-array-operations
-7. https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
-8. https://www.youtube.com/watch?v=nvPOUdz5PL4
-9. https://archive.ics.uci.edu/ml/datasets/iris
+5. https://www.youtube.com/watch?v=nvPOUdz5PL4
 
 
 
 
-![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png)
+
+![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png) [5]
 
 
 
