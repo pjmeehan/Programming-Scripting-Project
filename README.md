@@ -60,7 +60,8 @@ According to Kardi Teknomo, PhD, "Linear Discriminant Analysis is a statistical 
 It is because of this ability to predict, that LDA is popular with machine learning and pattern recognition. 
 
 
-### REFERENCES (the references for the written summaries in the README file are below. The references for the python script are represented in the script)
+### REFERENCES 
+####(the references for the written summaries in the README file are below. The references for the python script are represented in the script)
 
 1. https://en.wikipedia.org/wiki/Iris_flower_data_set
 2. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
