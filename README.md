@@ -1,5 +1,4 @@
-# Programming-Scripting-Project Final Project
-
+# PROGRAMMING-SCRIPTING FINAL PROJECT
 
 ## The Project Objective (Problem Statement)
 The following project concerns the well-known Fisher’s Iris data set. The project entails researching the data set, and then writing documentation and code in the Python programming language based on that research. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed.  
