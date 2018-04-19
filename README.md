@@ -59,8 +59,9 @@ It is because of this ability to predict, that LDA is popular with machine learn
 
 
 # THE PYTHON SCRIPT SUMMARY
-## FinalProject.py (please see above) is the script I wrote for this project.
-### The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, this allows us to view the first 10 lines of data, the dimensions of the array and the summary of the key statistical information. Finally, we plot our data on a graph.
+FinalProject.py (please see above) is the script I wrote for this project.
+
+The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, this allows us to view the first 10 lines of data, the dimensions of the array and the summary of the key statistical information. Finally, we plot our data on a graph.
 
 # FINAL SUMMARY
 ### 
