@@ -67,13 +67,14 @@ It is because of this ability to predict, that LDA is popular with machine learn
 2. https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 3. http://people.revoledu.com/kardi/tutorial/LDA/
 4. https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/
-5. https://www.youtube.com/watch?v=nvPOUdz5PL4
+5. https://www.youtube.com/watch?v=nvPOUdz5PL4 (explains how to post image in README file)
 
 
 
 
 
-![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png) [5]
+![image](https://user-images.githubusercontent.com/36194250/38903663-e0290a0e-429d-11e8-9778-96f8982ec8d1.png)
+
 
 
 
