@@ -69,6 +69,7 @@ It is because of this ability to predict, that LDA is popular with machine learn
 10. http://cs231n.github.io/python-numpy-tutorial/
 11. https://dzone.com/articles/python-101-reading-and-writing
 12. http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/
+13. https://archive.ics.uci.edu/ml/datasets/iris
 
 
 
