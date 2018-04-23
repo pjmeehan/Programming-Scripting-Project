@@ -3,7 +3,10 @@
 
 
 # notes
-# # import data set using previous script to do so
+# import data set using previous script to do so
+# the following script will look at the overall statistics of the complete iris dataset as well as the individual
+# datasets for each type of iris : setosa, versicolor and virginica. The reason for looking at each individual is to see
+# if certain statistics leand themselves for predicting which type of iris is being observed. 
 
 # REFERENCES
 # The following references were used to help with the project
