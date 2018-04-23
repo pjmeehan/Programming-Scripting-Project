@@ -64,7 +64,7 @@ FinalProject.py (please see above) is the script I wrote for this project.
 The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, which allows us to do the following : to view the first 10 lines of data (to make sure the data is being read correctly), to see the dimensions of the array and finally, to view the summary of the key statistical information. Finally, we plot our data on a graph.
 
 # FINAL SUMMARY
-### 
+The 
 
 
 ### REFERENCES 
