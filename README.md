@@ -62,6 +62,7 @@ It is because of this ability to predict, that LDA is popular with machine learn
 FinalProject.py (please see above) is the script I wrote for this project.
 
 The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, which allows us to do the following : to view the first 10 lines of data (to make sure the data is being read correctly), to see the dimensions of the array and finally, to view the summary of the key statistical information. Finally, we plot our data on a graph.
+NOTE : After writing my initial script and getting it to run correctly, I discovered I would need to break out the statistics of each species of iris in order to compare their measurements. This was a simple task done by creating individual csv files for each speacies' dataset and simply duplicating the script to include these csv files.
 
 # FINAL SUMMARY OF FINDINGS
 The findings from the script were interesting. Going into this project, I thought one would be able to predict the species of iris
@@ -70,8 +71,8 @@ This seems to be the case for all the physical characteristics.  It seems you ma
 Perhaps with more technical analysis one might be able to strenghten their predictability model but I'm just not there yet.
 
 # SUMMARY OF THE PROJECT
-The project was at times very frustrating, especially the writing of the script. Also, in looking into others conclusions of their findings, I often found them to be fairly technical and at a level in which I have yet to attain. However, with that being said I did find it rewarding in a couple of ways. First, discovering libraries (and how to utilize them) in python was a lifesaver. These are such powerful tools and easy to understand. Second, creating a game plan and following the game plan provved to be vital. even though I did not follow the plan exactly, I was able to keep refering to it to keep me on track.
-I ran across a few problems in the project. The biggest was in the writing of the script. When I first sat down to write the script, I was depending on the functions I learned in our previoes exercises and was finding it very difficult to move forward. Then after researching how others went about it, I discovered libraries and things seem to come together rather nicely. Another problem was in the graphical display of the data. I still need more work in this area such as adding titles and information to the plots.
+The project was at times very frustrating, especially the writing of the script. Also, when looking into the conclusions others had made of their findings, I often found them to be fairly technical and at a level in which I have yet to attain. However, with that being said I did find it rewarding in a couple of ways. First, discovering libraries (and how to utilize them) in python was a lifesaver. These are such powerful tools and easy to understand. Second, creating a game plan and following the game plan proved to be vital. Even though I did not follow the plan exactly, I was able to keep refering to it to keep me on track.
+I ran across a few problems in the project. The biggest was in the writing of the script. When I first sat down to write the script, I was depending on the functions I learned in our previous exercises and was finding it very difficult to move forward. Then after researching how others went about it, I discovered libraries and things seem to come together rather nicely. Another problem was in the graphical display of the data. I still need more work in this area such as adding titles and information to the plots.
 
 
 
