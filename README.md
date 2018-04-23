@@ -9,10 +9,10 @@ The following project concerns the well-known Fisher’s Iris data set. The proj
 The project plan is to follow the suggestion in the project outline with the combining of some tasks.
 My plan for the project is broken down into three areas:
 
-#### 1.Research, Document and Summarise
+#### 1.Research, Document and Summarise Fisher's Iris Dataset
 
 Research, document and summarize my findings in a clear and concise manner.
-Also decide what type of analysis you want to include in your findings beyond the max, min and mean of
+Also, decide what type of analysis I want to include in my findings beyond the max, min and mean of
 each column. Would including a table or graph be helpful?
 
 #### 2.Download, Code and Summarise
@@ -43,9 +43,9 @@ plan on spending 2 - 3 hours a day on the project until deadline.
 
 # FISHER'S IRIS DATASET SUMMARY
 
-Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936. Based on Fisher's linear discriminant model, this data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines. An interesting nate, the data in the set was actually compiled by Edgar Anderson. He collected the data to quantify the morphologic variation of Iris flowers of three related species. [1]
+Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936. Based on Fisher's linear discriminant model, this data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines. An interesting note, the data in the set was actually compiled by Edgar Anderson. He collected the data to quantify the morphologic variation of Iris flowers of three related species. [1]
 
-The data set consists of 50 samples from each species, the Iris setosa, Iris virginica and Iris versicolor. For each sample, the
+The dataset consists of 50 samples from each species, the Iris setosa, Iris virginica and Iris versicolor. For each sample, the
 length and width of the sepals and petals were measured in centimetres.[1],[2]
 
 Based on the findings, Fisher developed a linear discriminant model to distinguish the species from each other.[1]
@@ -61,11 +61,10 @@ It is because of this ability to predict, that LDA is popular with machine learn
 # THE PYTHON SCRIPT SUMMARY
 FinalProject.py (please see above) is the script I wrote for this project.
 
-The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, this allows us to view the first 10 lines of data, the dimensions of the array and the summary of the key statistical information. Finally, we plot our data on a graph.
+The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, which allows us to do the following : to view the first 10 lines of data (to make sure the data is being read correctly), to see the dimensions of the array and finally, to view the summary of the key statistical information. Finally, we plot our data on a graph.
 
 # FINAL SUMMARY
 ### 
-
 
 
 ### REFERENCES 
