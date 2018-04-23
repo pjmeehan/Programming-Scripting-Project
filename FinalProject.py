@@ -35,36 +35,62 @@ import csv
 # to see the full dataset, please go to the following website : https://en.wikipedia.org/wiki/Iris_flower_data_set#Data_set [4]
 
 
-x = open("data/iris.csv")  
+x = open("data/iris.csv") 
+y = open("data/irissetosa.csv") 
+z = open("data/irisversicolor.csv")
+a = open("data/irisvirginica.csv")
 # use open function to open the file with the data.
 
 
 csv_x = csv.reader(x)
+csv_y = csv.reader(y)
+csv_z = csv.reader(z)
+csv_a = csv.reader(a)
 # The reader object allows iteration, much like a regular file object does. This allows for iteration over each row 
 # in the reader object and the print out of the line of data, minus the commas. This works because each row is a list
 # and we can join each element in the list together, forming one long string.[6]
-
+# This is done for the complete dataset as well as the individual types of iris.
  
 iris = pd.read_csv("data/iris.csv")
-# reads the dataset into the DataFrame. 
+irissetosa = pd.read_csv("data/irissetosa.csv")
+irisversicolor = pd.read_csv("data/irisversicolor.csv")
+irisvirginica = pd.read_csv("data/irisvirginica.csv")
+# reads the dataset into the DataFrame. This is done for the complete dataset as well as the individual types of iris.
 # DataFrame is an expressive and flexible data structure that makes data manipulation and analysis easy.[7]
 # reference [1]
 
-print (iris.head(10))
-# the .head() function allows the printing of certain rows. .head() is the default for the first 5 rows. I chose to run the first 10 rows in my script.
+
+print (iris.head(3))
+# the .head() function allows the printing of certain rows. .head() is the default for the first 5 rows.
+# I chose to run the first 3 rows in my script.
 
 
 print (iris.shape)
 # the .shape function will give the dimensions of the array. In the iris dataset it is 150 rows x 5 columns. 
 # reference [1]
- 
+print("\n"*1) 
+print("COMPLETE DATASET")
 print(iris.describe())
+print("\n"*1)
+print("SETOSA")
+print(irissetosa.describe())
+print("\n"*1)
+print("VERSICOLOR")
+print(irisversicolor.describe())
+print("\n"*1)
+print("VIRGINICA")
+print(irisvirginica.describe())
 # the .describe will give an important statistical summary of each column in the dataset.
+# ("\n"*1) allows for a blank line to be inserted.
+# This is done for the complete dataset as well as the individual types of iris.
 # reference [1]
 
 # plotting
 
 iris.hist()
+irissetosa.hist()
+irisversicolor.hist()
+irisvirginica.hist()
 # .hist() method generates histograms andut also plots the probability density functions (PDFs) and cumulative density functions (CDFs).
 # reference [8] 
 # reference [1]
