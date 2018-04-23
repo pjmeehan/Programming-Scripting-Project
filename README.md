@@ -62,6 +62,7 @@ It is because of this ability to predict, that LDA is popular with machine learn
 FinalProject.py (please see above) is the script I wrote for this project.
 
 The pyhton script does several things. It first imports two libraries, matlab and pandas, to assist with the statistical computations and the plotting of the data. It then imports and reads the dataset from a csv file. Next it reads the file into a pandas DataFrame, which allows us to do the following : to view the first 10 lines of data (to make sure the data is being read correctly), to see the dimensions of the array and finally, to view the summary of the key statistical information. Finally, we plot our data on a graph.
+
 NOTE : After writing my initial script and getting it to run correctly, I discovered I would need to break out the statistics of each species of iris in order to compare their measurements. This was a simple task done by creating individual csv files for each speacies' dataset and simply duplicating the script to include these csv files.
 
 # FINAL SUMMARY OF FINDINGS
